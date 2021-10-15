@@ -1,3 +1,5 @@
+![ME GIF](me.gif)
+
 ### Hi there 👋
 
 
