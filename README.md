@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="me.gif" />
+<img align="right" alt="GIF" src="me.gif" width="320" height="320" />
 
 ### Hi there 👋
 
