@@ -1,4 +1,4 @@
-![ME GIF](me.gif)
+<img align="right" alt="GIF" src="me.gif" />
 
 ### Hi there 👋
 
