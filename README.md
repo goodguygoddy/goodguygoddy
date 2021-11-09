@@ -10,5 +10,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... My eamil in my profile or [Portfolio Website](https://godwyn.dev)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I play Volleyball & chess
+- ⚡ Fun fact: ... I play Volleyball & Chess
 
