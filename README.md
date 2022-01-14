@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on ... Projects 
 - 🤔 I’m looking for help with ... Starting a Buisness
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... My eamil in my profile or [Portfolio Website](https://godwyn.dev)
+- 📫 How to reach me: ... My email in my profile or [Portfolio Website](https://godwyn.dev)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I play Volleyball & Chess
 
