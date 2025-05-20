@@ -1,27 +1,30 @@
-<img align="right" alt="Image" src="me.png" width="480" height="270" />
+## Hi, I’m Godwyn James William 👋  
+*Software Engineer turning complex systems into clean, scalable solutions.*
 
-### Yup thats me, I'm Godwyn James William 👋
+<img align="right" alt="Godwyn James William" src="me.png" width="480" height="270" />
 
-#### *Embracing Technology, One Line of Code at a Time*
+### 🔧 What I Do
+- Engineer scalable platforms used by **60,000+ users**, from backend automation to polished UIs Integration.
+- Architect **cloud-native systems** using AWS (Lambda, Step Functions, S3, DynamoDB, RDS).
+- Specialize in building **modern React/Next.js frontends** with TypeScript, Emotion, and GraphQL.
+- Improve dev workflows with tools like **CircleCI**, implementing intelligent CI/CD pipelines.
 
----
+### ⚙️ Tech Expertise
+`Machine Learning` · `Computer Vision` · `Artificial Intelligence` · `React` · `Vue` · `Next.js` · `TypeScript` · `Node.js` · `AWS` · `GraphQL` · `Docker` · `PostgreSQL` · `DynamoDB` · `Hasura` · `CI/CD`
 
-- **🔭 Current Focus:** Web Development with a passion for creating responsive and user-friendly interfaces.
-  
-- **🌱 Learning Journey:** Deep diving into AWS to leverage cloud computing for scalable solutions.
-  
-- **👯 Collaboration:** Eager to contribute to Open Source Projects - let's innovate together!
-  
-- **🤔 Business Ventures:** Seeking guidance on entrepreneurial endeavors. Have tips on starting a business? Let's connect!
-  
-- **💬 Open Book:** Feel free to ask me about anything – from coding challenges to the latest tech trends.
-  
-- **📫 Contact Me:** Reach out via [email](jamesgodwynj@gmail.com) for collaborations, advice, or just a friendly chat.
-  
-- **😄 Pronouns:** He/Him
-  
-- **⚡ Just for Fun:** When I'm not coding, I'm on the volleyball court or watching netflix.
+### 🚀 Projects I’ve Delivered
+- 📦 **CMS Platform** for compliant marketing assets (Constellation Software / AFLAC)
+- 📊 **Realtime Trading Dashboard** using WebSockets + Highcharts
+- 🛒 **Merchant Portal Revamp** for 10,000+ users with modular React & Redux
 
----
+### 🤝 Open To
+- Open-source collaborations  
+- Technical consulting / architecture design  
+- Startup product builds (early-stage tech stack decisions → MVP launch)
 
-**Let's make something amazing together. Get in touch!**
+### 📫 Contact  
+📩 [jamesgodwynj@gmail.com](mailto:jamesgodwynj@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/goodguygoddy/)
+
+### ⚡ Motto  
+*Think deeply. Build clean. Ship fast.*
