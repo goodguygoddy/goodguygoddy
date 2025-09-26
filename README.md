@@ -26,5 +26,5 @@
 📩 [jamesgodwynj@gmail.com](mailto:jamesgodwynj@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/goodguygoddy/)
 
-### ⚡ Motto  
+### ⚡ Code I Live By  
 *Think deeply. Build clean. Ship fast.*
